@@ -1,0 +1,8 @@
+Rajat       ESE        9.1
+Rishabh     CSE        8.4
+Prakhar     CSE        9.7
+Aman        ME         7.4
+Rajat       ESE        9.1
+Rishabh     CSE        8.4
+Prakhar     CSE        9.7
+Naman       CSE        9.3
